@@ -1,8 +1,7 @@
 const titles = [
-    "Cybersecurity Student",
+    "Penetration tester",
     "Secure Software Enthusiast",
-    "Aspiring Penetration Tester",
-    "Future Security Engineer"
+    "Security Engineer"
 ];
 
 const typingText = document.getElementById("typing-text");
