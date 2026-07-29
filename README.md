@@ -1,2 +1,2 @@
-# Cyber_Potfolio
-# portfoilo
+# Cyber_Portfolio
+# portfolio
